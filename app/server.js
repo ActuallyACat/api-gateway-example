@@ -28,4 +28,4 @@ app.delete('/users/:id', function (req, res) {
   res.send(database);
 });
 
-app.listen(port, () => console.log(`Example app listening on port ${port}!`));
+app.listen(process.env.PORT || 8080, () => {console.log('app started on port: ', process.env.PORT || 8080)});
