@@ -1,0 +1,56 @@
+[
+  {
+    "_id": 1,
+    "isActive": false,
+    "age": 27,
+    "eyeColor": "green",
+    "name": "Mia Whitfield",
+    "gender": "female",
+    "company": "TRIBALOG"
+  },
+  {
+    "_id": 2,
+    "isActive": true,
+    "age": 25,
+    "eyeColor": "brown",
+    "name": "Justice Langley",
+    "gender": "male",
+    "company": "TECHADE"
+  },
+  {
+    "_id": 3,
+    "isActive": false,
+    "age": 26,
+    "eyeColor": "brown",
+    "name": "Kirby Ray",
+    "gender": "male",
+    "company": "ORBOID"
+  },
+  {
+    "_id": 4,
+    "isActive": true,
+    "age": 20,
+    "eyeColor": "brown",
+    "name": "Owens Tate",
+    "gender": "male",
+    "company": "BIOLIVE"
+  },
+  {
+    "_id": 5,
+    "isActive": false,
+    "age": 20,
+    "eyeColor": "green",
+    "name": "Shauna Vincent",
+    "gender": "female",
+    "company": "DATAGENE"
+  },
+  {
+    "_id": 6,
+    "isActive": true,
+    "age": 34,
+    "eyeColor": "green",
+    "name": "Petra Weiss",
+    "gender": "female",
+    "company": "CONFERIA"
+  }
+]
